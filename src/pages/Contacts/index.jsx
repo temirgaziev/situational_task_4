@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Layout, Row, Col, Card, Typography, Image } from 'antd';
 // import { YMaps, Map, Placemark } from 'react-yandex-maps';
 import { EnvironmentOutlined, MailOutlined, PhoneOutlined } from '@ant-design/icons';

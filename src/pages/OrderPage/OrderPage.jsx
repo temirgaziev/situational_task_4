@@ -1,17 +1,5 @@
 import React, { useState } from 'react';
-import {
-  Layout,
-  Steps,
-  Form,
-  Input,
-  Button,
-  Typography,
-  Row,
-  Col,
-  Divider,
-  Alert,
-  message,
-} from 'antd';
+import { Layout, Steps, Form, Input, Button, Typography, Row, Col, message } from 'antd';
 import './OrderPage.scss';
 import PaymentDetails from './PaymentDetail';
 import OrderSummary from './OrderSummary';
