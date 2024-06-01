@@ -32,7 +32,7 @@ const InnovatechHeader = () => {
         </Menu.Item>
       </Menu>
       <Button type="primary" className="pre-order-button">
-        Pre-order
+        <Link to="/product-detail">Pre-order</Link>
       </Button>
       <MenuOutlined className="mobile-menu-icon" />
     </Header>
