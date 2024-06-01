@@ -1,0 +1,45 @@
+/* src/AboutUs.css */
+
+.about-us-layout {
+  background: #f0f2f5;
+  padding: 50px 20px;
+}
+
+.about-us-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.about-us-section {
+  margin-bottom: 40px;
+}
+
+.about-us-title,
+.about-us-subtitle {
+  text-align: center;
+  color: #1890ff;
+}
+
+.about-us-text {
+  text-align: center;
+  font-size: 18px;
+}
+
+.about-us-card,
+.about-us-team-card {
+  text-align: center;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.about-us-icon {
+  font-size: 48px;
+  color: #1890ff;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .about-us-layout {
+    padding: 30px 10px;
+  }
+}
