@@ -4,11 +4,15 @@ This web application is developed for Innovatech to introduce and pre-order thei
 
 ## Screenshots
 
-- Include screenshots here
+- ![screen](https://github.com/temirgaziev/situational_task_4/blob/main/src/screens/18.png)
+- ![screen](https://github.com/temirgaziev/situational_task_4/blob/main/src/screens/23.png)
+- ![screen](https://github.com/temirgaziev/situational_task_4/blob/main/src/screens/27.png)
+- ![screen](https://github.com/temirgaziev/situational_task_4/blob/main/src/screens/33.png)
+- ![screen](https://github.com/temirgaziev/situational_task_4/blob/main/src/screens/57.png)
 
 ## Video Description
 
-- [Video description link](#)
+- [Video Link](https://drive.google.com/file/d/1Q1k4QhsAu5SWw22BVdBfq9w4r-Ursen_/view?usp=sharing)
 
 ## Project Structure
 
