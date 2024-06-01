@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/situational_task_4/static/css/main.a24378d9.css",
+    "main.js": "/situational_task_4/static/js/main.00fccfb2.js",
+    "index.html": "/situational_task_4/index.html",
+    "main.a24378d9.css.map": "/situational_task_4/static/css/main.a24378d9.css.map",
+    "main.00fccfb2.js.map": "/situational_task_4/static/js/main.00fccfb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24378d9.css",
+    "static/js/main.00fccfb2.js"
+  ]
+}
